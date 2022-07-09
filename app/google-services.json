@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768741070243",
+    "project_id": "qr-code-system-filter",
+    "storage_bucket": "qr-code-system-filter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768741070243:android:36de97dd81aac1a69e3616",
+        "android_client_info": {
+          "package_name": "com.example.qrcodesystemfilter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768741070243-t31r29h8ebec2mme719dtubpn7kp4784.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdJ_i09U2oy7KOQN4nxa9JOWfLGbvGVJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768741070243-t31r29h8ebec2mme719dtubpn7kp4784.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
